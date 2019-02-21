@@ -1,8 +1,39 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+    {   
+        "id": 1,
+        "name": "iPhone 8 plus",
+        "type": "phone",
+        "capacity": 64,
+        "price": 599,
+        "image": "/images/products/ipad.png"
+    },
+    {   
+        "id": 2,
+        "name": "iPhone X plus",
+        "description": "This is iPhone X plus",
+        "type": "phone",
+        "capacity": 128,
+        "price": 999,
+        "image": "/images/products/iphone.png"
+    },
+    {   
+        "id": 3,
+        "name": "iPhone 7 plus",
+        "description": "This is iPhone 7 plus",
+        "type": "phone",
+        "capacity": 256,
+        "price": 1099,
+        "image": "/images/products/iphone.png"
+    },
+    {   
+        "id": 4,
+        "name": "iPhone 8 ",
+        "description": "This is iPhone 8 ",
+        "type": "phone",
+        "capacity": 64,
+        "price": 799,
+        "image": "/images/products/ipad.png"
     }
   ],
   "profile": {
