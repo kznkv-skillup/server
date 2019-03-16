@@ -34,7 +34,8 @@
         "capacity": 64,
         "price": 799,
         "image": "/images/products/ipad.png"
-    },{   
+    },
+    {   
         "id": 5,
         "name": "iPhone 8 plus",
         "type": "phone",
@@ -68,7 +69,8 @@
         "capacity": 64,
         "price": 799,
         "image": "/images/products/ipad.png"
-    },{   
+    },
+    {   
         "id": 9,
         "name": "iPhone 8 plus",
         "type": "phone",
