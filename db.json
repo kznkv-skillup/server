@@ -17,16 +17,7 @@
         "capacity": 128,
         "price": 999,
         "image": "/images/products/iphone.png"
-    },
-    {   
-        "id": 3,
-        "name": "iPhone 7 plus",
-        "description": "This is iPhone 7 plus",
-        "type": "phone",
-        "capacity": 256,
-        "price": 1099,
-        "image": "/images/products/iphone.png"
-    },
+    }
 
   ],
   "profile": {
