@@ -1,7 +1,7 @@
 
 
 {
-  "posts": [
+   [
     {   
         "id": 1,
         "name": "iPhone 8 plus",
@@ -28,10 +28,7 @@
         "price": 1099,
         "image": "/images/products/iphone.png"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
  
 
