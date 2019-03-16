@@ -1,4 +1,4 @@
-{
+
   "posts": [
     {   
         "id": 1,
@@ -105,8 +105,6 @@
         "price": 799,
         "image": "/images/products/ipad.png"
     },
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
+ 
+
