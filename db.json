@@ -6,7 +6,7 @@
         "type": "phone",
         "capacity": 64,
         "price": 599,
-        "image": "/images/products/ipad.png"
+        "image": "https://raw.githubusercontent.com/kznkv-skillup/react/gh-pages/images/products/ipad.png"
     },
     {   
         "id": 2,
