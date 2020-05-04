@@ -15,7 +15,7 @@
         "type": "phone",
         "capacity": 128,
         "price": 999,
-        "image": "/images/products/iphone.png"
+        "image": "https://raw.githubusercontent.com/kznkv-skillup/react/gh-pages/images/products/iphone.png"
     }
 
   ],
